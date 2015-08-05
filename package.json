@@ -1,0 +1,21 @@
+{
+  "name": "generator-tbs-h5",
+  "version": "0.0.1",
+  "description": "html5 脚手架",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limichange/generator-tbs-h5.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "tbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limichange/generator-tbs-h5/issues"
+  },
+  "homepage": "https://github.com/limichange/generator-tbs-h5#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
